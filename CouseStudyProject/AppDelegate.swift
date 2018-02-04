@@ -8,6 +8,7 @@
 
 import UIKit
 
+
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
@@ -15,6 +16,25 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
+        let bar = UITabBarController.init()
+        self.window?.rootViewController = bar
+        
+        let studyListVc = StudyListTableViewController.init()
+        studyListVc.tabBarItem.title = "study"
+        studyListVc.tabBarItem.image = UIImage.init(named: "study")
+        let nv1 = UINavigationController.init(rootViewController: studyListVc)
+        let studyContentVc = StudyContentViewController.init()
+        studyContentVc.tabBarItem.title = "personal study"
+        studyContentVc.tabBarItem.image = UIImage.init(named: "profile")
+        let nv2 = UINavigationController.init(rootViewController: studyContentVc)
+        
+        bar.viewControllers = [nv1, nv2]
+        
+        
+        
+        
+        
+        
         // Override point for customization after application launch.
         return true
     }

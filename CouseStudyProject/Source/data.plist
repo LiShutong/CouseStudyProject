@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<array>
+			<dict>
+				<key>grade</key>
+				<string>C</string>
+				<key>videoName</key>
+				<string>01.mp4</string>
+				<key>videoTitle</key>
+				<string>レッスン</string>
+				<key>subtitle</key>
+				<string>インターネット</string>
+				<key>japanContent</key>
+				<string>情報化時代の今日において，インターネットはすでにわれわれの生活の各方面に入り込んでおり，生活や仕事の面で大きな変化をもたらしている。たとえば，毎日まず職場では電子メーラーを開き電子メールをチェックすることは日常習慣になり，必要な情報と資料を探すネットサーチも不可欠の手段の一つとなっている。</string>
+				<key>chineseContent</key>
+				<string>在信息化时代的今天，互联网（Internet）已进入了我们生活的各个角落，改变着我们的生活习惯和工作方式。每天上班后，首先打开电子邮箱检查电子邮件，已成为我们的一种日常工作习惯，网络搜寻也成为我们查找所需信息和资料的手段之一。</string>
+			</dict>
+			<dict>
+				<key>videoName</key>
+				<string>04.mp4</string>
+				<key>grade</key>
+				<string>B</string>
+				<key>videoTitle</key>
+				<string>レッスン</string>
+				<key>subtitle</key>
+				<string>インターネットの発展略史</string>
+				<key>japanContent</key>
+				<string>インターネットの原型は1969年にアメリカ国防高等研究計画局ARPA (Advanced Research Projects Agency)が軍事試験のために導入したものであり，その目的は残存力の強い分布型情報ネットワークを作ることであった。この50の大学と研究機関により共同で作成したインターネットは1972年にその最初のモデルARPANETを一般公開した。</string>
+				<key>chineseContent</key>
+				<string>互联网的原型是1969年美国国防部远景规划局ARPA (Advanced Research Projects Agency) 为军事试验而建立的，其目的是建立一个存活力强的分布式信息网络。这个由50所大学和科研机构参与建立的互联网，1972年第1次公开向人们展示了它最早的模型ARPANET。</string>
+			</dict>
+		</array>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>インターネット</string>
+				<key>grade</key>
+				<string>C</string>
+				<key>translation</key>
+				<string>互联网</string>
+				<key>read</key>
+				<string>いんたねっと</string>
+				<key>exampleSentence</key>
+				<string>インターネットを繋がらない</string>
+				<key>imageName</key>
+				<string>1.1</string>
+			</dict>
+			<dict>
+				<key>title</key>
+				<string>電子メール</string>
+				<key>grade</key>
+				<string>B</string>
+				<key>translation</key>
+				<string>电子邮件</string>
+				<key>read</key>
+				<string>でんしめーる</string>
+				<key>exampleSentence</key>
+				<string>電子メールで送りします</string>
+				<key>imageName</key>
+				<string>1.2</string>
+			</dict>
+		</array>
+		<array>
+			<dict>
+				<key>question</key>
+				<string>インターネットの原型はどの国で作成したものですか?</string>
+				<key>grade</key>
+				<string>C</string>
+				<key>correct</key>
+				<string>B</string>
+				<key>A</key>
+				<string>インドネシア</string>
+				<key>B</key>
+				<string>アメリカ</string>
+				<key>C</key>
+				<string>イギリス</string>
+				<key>D</key>
+				<string>カナダ</string>
+			</dict>
+			<dict>
+				<key>question</key>
+				<string>インターネットの標準通信プロトコルはどれですか? </string>
+				<key>grade</key>
+				<string>B</string>
+				<key>correct</key>
+				<string>A</string>
+				<key>A</key>
+				<string>TCP/IP</string>
+				<key>B</key>
+				<string>Http</string>
+				<key>C</key>
+				<string>TCP/ID</string>
+				<key>D</key>
+				<string>Http/IP</string>
+			</dict>
+		</array>
+	</array>
+	<array/>
+	<array/>
+	<array>
+		<array>
+			<dict>
+				<key>grade</key>
+				<string>C</string>
+				<key>videoName</key>
+				<string>04.mp4</string>
+				<key>videoTitle</key>
+				<string>レッスン</string>
+				<key>subtitle</key>
+				<string>新幹線 </string>
+				<key>japanContent</key>
+				<string>新幹線は日本全土を覆う高速電気鉄道であり，最高時速は300 kmに達する。新幹線は電力を駆動源にし電動機を通して入力された電気エネルギーを駆動に必要な機械エネルギーに変換する。</string>
+				<key>chineseContent</key>
+				<string>新干线是覆盖日本全国的高速电气火车，最高时速达300公里。新干线以电能为驱动源，通过电动机将输入的电能转换为驱动火车的所需要的机械能。</string>
+			</dict>
+			<dict>
+				<key>grade</key>
+				<string>A</string>
+				<key>videoName</key>
+				<string>04.mp4</string>
+				<key>videoTitle</key>
+				<string>レッスン</string>
+				<key>subtitle</key>
+				<string>電動機 </string>
+				<key>japanContent</key>
+				<string>電動機（または電機と略称する）は一般的にモーターとも呼び，電気エネルギーを機械エネルギーに変換する原動機の総称である。
+電動機の分類方法は数多くあるが，駆動電源の違いにより直流モータと交流モータに分けることができる。初期の新幹線には主に直流モータが用いられていたが，現在の新幹線には交流モータが一般的に用いられている。</string>
+				<key>chineseContent</key>
+				<string>电动机（或简称电机）一般也称为马达，是将电能转换为机械能的原动机的总称。
+电动机的分类方式有多种，按驱动电源的不同可分为直流电机和交流电机。初期的新干线主要采用直流电机，而现在的新干线一般都采用交流电机。</string>
+			</dict>
+		</array>
+		<array>
+			<dict>
+				<key>grade</key>
+				<string>C</string>
+				<key>title</key>
+				<string>新幹線</string>
+				<key>translation</key>
+				<string>新干线</string>
+				<key>read</key>
+				<string>しんかんせん</string>
+				<key>exampleSentence</key>
+				<string>新幹線に乗る</string>
+				<key>imageName</key>
+				<string>4.1</string>
+			</dict>
+			<dict>
+				<key>grade</key>
+				<string>A</string>
+				<key>title</key>
+				<string>電動機</string>
+				<key>translation</key>
+				<string> 马达</string>
+				<key>read</key>
+				<string>でんどうき</string>
+				<key>exampleSentence</key>
+				<string>電動機はよくモーターと呼ばれる。</string>
+				<key>imageName</key>
+				<string>4.2</string>
+			</dict>
+		</array>
+		<array>
+			<dict>
+				<key>grade</key>
+				<string>C</string>
+				<key>question</key>
+				<string>新幹線の正しい中国語はどれですか?</string>
+				<key>correct</key>
+				<string>C</string>
+				<key>A</key>
+				<string>蒸汽机车</string>
+				<key>B</key>
+				<string>新路线</string>
+				<key>C</key>
+				<string>新干线</string>
+				<key>D</key>
+				<string>火车</string>
+			</dict>
+			<dict>
+				<key>grade</key>
+				<string>A</string>
+				<key>question</key>
+				<string>電動機はどんなエネルギーからどんなエネルギーまでに変換するか? </string>
+				<key>correct</key>
+				<string>A</string>
+				<key>A</key>
+				<string>電気エネルギー-機械エネルギー</string>
+				<key>B</key>
+				<string>機械エネルギー-運動エネルギー</string>
+				<key>C</key>
+				<string> 機械エネルギー-電気エネルギー</string>
+				<key>D</key>
+				<string> 運動エネルギー-機械エネルギー</string>
+			</dict>
+		</array>
+	</array>
+	<array/>
+	<array/>
+	<array/>
+	<array/>
+	<array/>
+	<array/>
+	<array>
+		<array>
+			<dict>
+				<key>grade</key>
+				<string>B</string>
+				<key>videoName</key>
+				<string>11-1.mp4</string>
+				<key>videoTitle</key>
+				<string>レッスン</string>
+				<key>subtitle</key>
+				<string>ハイパーループ</string>
+				<key>japanContent</key>
+				<string>　アメリカのイーロンマスクがハイパーループという減圧されたチューブの中で車が空中浮遊しながら移動する次世代交通システムを考え出した。チューブ内の空気を大きなファンで吸い込み、車の底面から圧縮された空気を排出して、車体を浮かす構想。</string>
+				<key>chineseContent</key>
+				<string>　超回路列车是美国企业间埃隆•马特发表构想的新一代交通系统。将减压的管子作为通路，在管子内悬浮前进。最开始的构象是每辆车可以乘坐28名乘客。由先头车辆搭载的风扇将管内的空气吸入，并从底下排出从而达到车体上浮。</string>
+			</dict>
+			<dict>
+				<key>grade</key>
+				<string>A</string>
+				<key>videoName</key>
+				<string>11-2.mp4</string>
+				<key>videoTitle</key>
+				<string>レッスン</string>
+				<key>subtitle</key>
+				<string>ハイパーループの現状と問題点 </string>
+				<key>japanContent</key>
+				<string>　ハイパーループに対し、減圧されたチューブ内を維持するエネルギー、車へのエネルギーの供給、浮上高度の維持、発熱の発散、空気抵抗などの問題もある。</string>
+				<key>chineseContent</key>
+				<string>　仔细调查之后，出现了许多问题。比如为了维持减压管的能量，对车辆的能源供应，还有就是减压过程中的管内散热，以及高速行走时产生的空气阻力等等。</string>
+			</dict>
+		</array>
+		<array>
+			<dict>
+				<key>grade</key>
+				<string>B</string>
+				<key>title</key>
+				<string>ハイパーループ </string>
+				<key>translation</key>
+				<string>超回路列车</string>
+				<key>read</key>
+				<string>はいぱーるーぷ</string>
+				<key>exampleSentence</key>
+				<string>ハイパーループは次世代交通システムの1つである。</string>
+				<key>imageName</key>
+				<string>11.1</string>
+			</dict>
+			<dict>
+				<key>grade</key>
+				<string>A</string>
+				<key>title</key>
+				<string>チューブ </string>
+				<key>translation</key>
+				<string>管道</string>
+				<key>read</key>
+				<string> ちゅーぶ</string>
+				<key>exampleSentence</key>
+				<string> ハイパーループはチューブ内を空中浮上して進む。</string>
+				<key>imageName</key>
+				<string>11.2</string>
+			</dict>
+		</array>
+		<array>
+			<dict>
+				<key>grade</key>
+				<string>B</string>
+				<key>question</key>
+				<string>ハイパーループの正しい中国語はどれですか?</string>
+				<key>correct</key>
+				<string>C</string>
+				<key>A</key>
+				<string>超导列车</string>
+				<key>B</key>
+				<string> 超回路电车</string>
+				<key>C</key>
+				<string> 超回路列车</string>
+				<key>D</key>
+				<string>超导电车</string>
+			</dict>
+			<dict>
+				<key>grade</key>
+				<string>A</string>
+				<key>question</key>
+				<string>インターネットの標準通信プロトコルはどれですか? </string>
+				<key>correct</key>
+				<string>A</string>
+				<key>A</key>
+				<string>TCP/IP</string>
+				<key>B</key>
+				<string>Http</string>
+				<key>C</key>
+				<string>TCP/ID</string>
+				<key>D</key>
+				<string>Http/IP</string>
+			</dict>
+		</array>
+	</array>
+	<array/>
+	<array/>
+	<array/>
+</array>
+</plist>

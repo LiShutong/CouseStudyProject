@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>question</key>
+		<string>電圧の正しい読み方はどれですか？</string>
+		<key>correct</key>
+		<string>D</string>
+		<key>A</key>
+		<string>でんや</string>
+		<key>B</key>
+		<string>でんやつ</string>
+		<key>C</key>
+		<string>でんあ</string>
+		<key>D</key>
+		<string>でんあつ</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>インターネットの標準通信プロトコルはどれですか? </string>
+		<key>correct</key>
+		<string>A</string>
+		<key>A</key>
+		<string>TCP/IP</string>
+		<key>B</key>
+		<string>Http</string>
+		<key>C</key>
+		<string> TCP/ID</string>
+		<key>D</key>
+		<string>Http/IP</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>電動機はどんなエネルギーからどんなエネルギーまでに変換するか? </string>
+		<key>correct</key>
+		<string>A</string>
+		<key>A</key>
+		<string>電気エネルギー-機械エネルギー</string>
+		<key>B</key>
+		<string>機械エネルギー-運動エネルギー</string>
+		<key>C</key>
+		<string> 機械エネルギー-電気エネルギー</string>
+		<key>D</key>
+		<string>運動エネルギー-機械エネルギー</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>新幹線の正しい中国語はどれですか?</string>
+		<key>correct</key>
+		<string>C</string>
+		<key>A</key>
+		<string>蒸汽机车</string>
+		<key>B</key>
+		<string> 新路线</string>
+		<key>C</key>
+		<string>新干线</string>
+		<key>D</key>
+		<string>火车</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>世界初のクロスプラットフォームウイルスはどれですか?　</string>
+		<key>correct</key>
+		<string>B</string>
+		<key>A</key>
+		<string> Aiウイルス</string>
+		<key>B</key>
+		<string> Biウイルス</string>
+		<key>C</key>
+		<string> Ciウイルス</string>
+		<key>D</key>
+		<string> Diウイルス</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>クリーンエネルギーではないのはどれですか？</string>
+		<key>correct</key>
+		<string>C</string>
+		<key>A</key>
+		<string>風力エネルギー</string>
+		<key>B</key>
+		<string>ソーラーエネルギー</string>
+		<key>C</key>
+		<string>化石燃料エネルギー</string>
+		<key>D</key>
+		<string>  生物エネルギー</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>ハイパーループは（）内を空中浮上して進む。</string>
+		<key>correct</key>
+		<string>A</string>
+		<key>A</key>
+		<string>チューブ</string>
+		<key>B</key>
+		<string>宇宙</string>
+		<key>C</key>
+		<string>空</string>
+		<key>D</key>
+		<string> トンネル</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>発散の正しい読み方はどれですか？</string>
+		<key>correct</key>
+		<string>B</string>
+		<key>A</key>
+		<string>はさん</string>
+		<key>B</key>
+		<string>はっさん</string>
+		<key>C</key>
+		<string>はさ</string>
+		<key>D</key>
+		<string> はっさ</string>
+	</dict>
+</array>
+</plist>
